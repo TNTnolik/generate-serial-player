@@ -1,0 +1,10 @@
+#hdplayer-video_menu {
+    overflow: hidden;
+}
+#hdplayer-video_controls{
+    overflow: hidden;
+}
+#vid{
+    width: 640px;
+    height: 480px;
+}
